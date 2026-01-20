@@ -35,11 +35,11 @@ Landing page profissional para salão de beleza.
 
 ## 📱 Como Visualizar
 
-1. Acesse: [danielbsn1.github.io/portifolio](https://danielbsn1.github.io/portifolio)
+1. Acesse: [danielbsn1.github.io/Portifolio](https://danielbsn1.github.io/Portifolio)
 2. Ou clone o repositório:
 ```bash
-git clone https://github.com/danielbsn1/portifolio.git
-cd portifolio
+git clone https://github.com/danielbsn1/Portifolio.git
+cd Portifolio
 ```
 
 ## 📞 Contato
