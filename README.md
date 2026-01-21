@@ -1,51 +1,41 @@
-# 💼 Portfólio - Daniel Batista
+#  Portfólio - Daniel Batista
 
 Portfólio pessoal de um Desenvolvedor Full Stack Júnior, apresentando projetos e habilidades técnicas.
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **Frontend:** HTML5, CSS3, JavaScript
 - **Design:** Responsivo e moderno
 - **Deploy:** GitHub Pages
 
-## 📋 Projetos em Destaque
+##  Projetos em Destaque
 
-### 🏪 Barber-Shop
+### Barber-Shop
 Sistema web para agendamento de horários em barbearia com painel administrativo.
 - **Tecnologias:** Python, Flask, SQLAlchemy
 - **Link:** [Ver projeto](https://reasonable-missie-danielbsn9-e2fd17d4.koyeb.app/)
 
-### 🧸 Mundo dos Brinquedos
+###  Mundo dos Brinquedos
 E-commerce completo de brinquedos com interface responsiva.
 - **Tecnologias:** HTML, CSS, JavaScript
 - **Link:** [Ver projeto](https://mundo-dos-brinquedos.vercel.app/)
 
-### 💄 Landing Page Responsiva
+###  Landing Page Responsiva
 Landing page profissional para salão de beleza.
 - **Tecnologias:** HTML, CSS, JavaScript
 - **Link:** [Ver projeto](https://studio-beauty-eta.vercel.app/)
 
-## 🎯 Funcionalidades
+##  Funcionalidades
 
-- ✅ Design responsivo
-- ✅ Seção de projetos interativa
-- ✅ Links para GitHub e LinkedIn
-- ✅ Efeitos hover nos cards
-- ✅ Organização de tecnologias por categoria
+-  Design responsivo
+-  Seção de projetos interativa
+-  Links para GitHub e LinkedIn
+-  Efeitos hover nos cards
+-  Organização de tecnologias por categoria
 
-## 📱 Como Visualizar
+##  Como Visualizar
 
-1. Acesse: [danielbsn1.github.io/Portifolio](https://danielbsn1.github.io/Portifolio)
-2. Ou clone o repositório:
-```bash
-git clone https://github.com/danielbsn1/Portifolio.git
-cd Portifolio
-```
-
-## 📞 Contato
-
-- **GitHub:** [danielbsn1](https://github.com/danielbsn1)
-- **LinkedIn:** [Seu perfil](https://linkedin.com/in/seu-perfil)
+1. Acesse: [danielbsn1.github.io/Portifolio](https://portifolio-gamma-gilt.vercel.app/)
 
 ---
 © 2026 - Daniel Batista
